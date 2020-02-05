@@ -1,0 +1,9 @@
+[package]
+name = "rgbetris"
+edition = "2018"
+version = "0.1.0"
+
+[dependencies]
+glfw = "0.35"
+glad-gl = { path = "glad-gl" }
+rand = "0.7"
